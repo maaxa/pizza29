@@ -1,0 +1,11 @@
+.dialogItem {
+  width: 20%;
+  min-height: 150px;
+  background: #ccc;
+  float: left;
+}
+.messages {
+  width: 100%;
+  min-height: 150px;
+  background: #c00;
+}

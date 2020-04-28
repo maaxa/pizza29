@@ -1,0 +1,13 @@
+.nav {
+  grid-area: n;
+  background-color: beige;
+  padding: 10px;
+}
+
+.item a {
+  color: black;
+  text-decoration: none;
+}
+.item a.active {
+  color: cornflowerblue;
+}
